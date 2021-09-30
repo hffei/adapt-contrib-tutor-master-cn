@@ -1,0 +1,17 @@
+{
+  "name": "adapt-contrib-tutor",
+  "version": "3.0.0",
+  "framework": ">=5",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-tutor",
+  "bugs": "https://github.com/adaptlearning/adapt-contrib-tutor/issues",
+  "extension" : "tutor",
+  "displayName" : "Tutor导师",
+  "description": "在使用问题组件时为用户提供信息反馈功能",
+  "main": "/js/adapt-contrib-tutor.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPL-3.0",
+  "targetAttribute": "_tutor"
+}
